@@ -1,8 +1,10 @@
 ## Bem Vindo! Eu sou Daniel Maciel 👋
 
 
-- 🔭 Hoje trabalho como Analista de Suporte
-- 🌱 Estudando Front-end
+- Hoje trabalho como Analista de Suporte
+- Administrador Microsoft Intune Mobile
+- Estudando Front-end
+- Estudando CyberSecurity 
 
 <div align="center">
   <a href="https://github.com/DanielMaciel89">
