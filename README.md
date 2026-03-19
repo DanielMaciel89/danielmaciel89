@@ -16,7 +16,7 @@
 ## Welcome! I'm Daniel Maciel 
 ## About me 
 - Today I work as an IT Analyst
-- Administrator Microsoft Intume
+- Administrator Microsoft Intune
 - Studying Front-end
 - Studying CyberSecurity  
 
